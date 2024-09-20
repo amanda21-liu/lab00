@@ -69,4 +69,4 @@ p2 <- ggplot(team_data, aes(x = hobby)) +
 p2
 ```
 
-*Remove this text (including the stars) and add your answer for Exercise 20 here.*
+*if there are many members in the group, and those people have different hobby, the graph maybe very messy, so I think just change another title for y axis*
